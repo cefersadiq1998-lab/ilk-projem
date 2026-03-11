@@ -1,0 +1,5 @@
+{
+  "name": "SatFreq - Satellite FTA Tracker",
+  "description": "A comprehensive database of satellite FTA TV channel frequencies and the latest satellite broadcasting news.",
+  "requestFramePermissions": []
+}
